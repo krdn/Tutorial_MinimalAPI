@@ -1,13 +1,17 @@
 # Tutorial_MinimalAPI
 
 
-TodoApi ÇÁ·ÎÁ§Æ®´Â [ÀÚ½À¼­: ASP.NET Core¸¦ »ç¿ëÇÏ¿© Minimal API ¸¸µé±â](https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)¸¦ µû¶ó¼­ ¸¸µé¾ú½À´Ï´Ù.
+TodoApi í”„ë¡œì íŠ¸ëŠ” [ììŠµì„œ: ASP.NET Coreë¥¼ ì‚¬ìš©í•˜ì—¬ Minimal API ë§Œë“¤ê¸°](https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)ë¥¼ ë”°ë¼ì„œ ë§Œë“¤ì—ˆìŠµë‹ˆë‹¤.
 
-![image](https://user-images.githubusercontent.com/18522370/137637421-8b0b6b0a-2b0a-4b0a-9b0a-9b0a9b0a9b0a.png)
+
+### ë³´ê¸° > ë‹¤ë¥¸ ì°½ > ì—”ë“œí¬ì¸íŠ¸ íƒìƒ‰ê¸°
+
+![image](https://github.com/krdn/Tutorial_MinimalAPI/assets/5511718/26ffee59-8aa5-4f13-9254-0c69bcae78a8)
+
 
 https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/min-web-api/_static/8.x/generate-request-vs17.8.0.png?view=aspnetcore-8.0
 
 
-ApiDemo, MinimalApiDemo ÇÁ·ÎÁ§Æ®´Â [Intro to Web API in .NET 6 - Including Minimal APIs, Swagger, and more](https://www.youtube.com/watch?v=87oOF9Ve-KA)¸¦ Âü°íÇÏ¿© ¸¸µé¾ú½À´Ï´Ù.
+ApiDemo, MinimalApiDemo í”„ë¡œì íŠ¸ëŠ” [Intro to Web API in .NET 6 - Including Minimal APIs, Swagger, and more](https://www.youtube.com/watch?v=87oOF9Ve-KA)ë¥¼ ì°¸ê³ í•˜ì—¬ ë§Œë“¤ì—ˆìŠµë‹ˆë‹¤.
 
 
