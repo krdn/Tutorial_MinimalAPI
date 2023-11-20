@@ -3,6 +3,8 @@
 
 TodoApi 프로젝트는 [자습서: ASP.NET Core를 사용하여 Minimal API 만들기](https://learn.microsoft.com/ko-kr/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio)를 따라서 만들었습니다.
 
+Swagger 기능이 필요하면 아래의 프로젝트와 같이 추가 하여 사용가능함.
+
 
 ### 보기 > 다른 창 > 엔드포인트 탐색기
 
